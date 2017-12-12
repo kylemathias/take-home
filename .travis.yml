@@ -51,11 +51,7 @@ android:
  - android-sdk-preview-license-.+
  - android-sdk-license-.+
  - google-gdk-license-.+
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> 2e61757e57be0902bff52f836d583b5965f25730
 notifications:
   email: false
 before_deploy:
