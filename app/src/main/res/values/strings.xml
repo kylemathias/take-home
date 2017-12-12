@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PLANET</string>
+    <string name="app_name">MY PLANET</string>
     <string name="action_syncUrl">Sync Server Url</string>
     <string name="action_syncNow">Sync Device</string>
     <string name="action_settings">Settings</string>
@@ -98,4 +98,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="finish">Finish</string>
+    <string name="submit">Submit</string>
+    <string name="version">version 2.1.1</string>
 </resources>
