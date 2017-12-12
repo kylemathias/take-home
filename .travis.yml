@@ -69,7 +69,7 @@ deploy:
   file: TakeHomeAPK.apk
   skip_cleanup: true
   on:
-    repo: open-learning-exchange/take-home
+    repo: take-home/maxi_takecoursequiz
     tags: true
     jdk: oraclejdk8
   api_key:
